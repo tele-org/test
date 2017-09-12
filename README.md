@@ -1,2 +1,2 @@
 # test
-Tele test
+Tele test (push)
